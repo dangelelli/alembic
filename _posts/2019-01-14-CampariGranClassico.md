@@ -4,6 +4,8 @@ categories:
 - Tableau
 - Cocktails
 feature_image: "https://picsum.photos/2560/600?image=872"
+#feature text: |
+#  ## Cocktail Vizzes
 ---
 
 Gran Classico is one of my favorite spirits. It was sort of a stepping stone for me into drinking [amari](https://en.wikipedia.org/wiki/Amaro_\(liqueur\)).
