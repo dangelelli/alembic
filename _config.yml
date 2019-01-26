@@ -42,7 +42,7 @@ social: # jekyll-seo-tag > social overrides
   name: Dan Angelelli # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/dangelelli
-    - https://www.facebook.com/dangelelli
+    #- https://www.facebook.com/dangelelli
     - https://www.linkedin.com/in/dangelelli
     - https://plus.google.com/+dangelelli
     - https://github.com/dangelelli
@@ -92,7 +92,6 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: /
   Cocktails: /cocktails/
-  Elements: /elements/
   Blog: /blog/
   Categories: /categories/
   Search: /search/
